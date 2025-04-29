@@ -4,6 +4,14 @@ A Streamlit-based Job Search Application built using the **JSearch API** from Ra
 Developed by **Neelmani** and **Saara**, this tool allows users to search for jobs across cities in India using rich filters such as location, job experience, remote-only roles, date posted, and more.
 
 ---
+## 🖼️ Screenshots 
+![Screenshot 2025-04-29 at 9 50 23 PM](https://github.com/user-attachments/assets/b7e1041f-3804-4284-a564-ea8596621df4)
+Streamlit FrontEnd
+
+![Screenshot 2025-04-29 at 9 51 12 PM](https://github.com/user-attachments/assets/0aec1750-e4af-444a-9d81-05b66af887ee)
+Results
+
+
 
 ## 📌 Features
 
@@ -62,3 +70,14 @@ To use the app, you need a valid API key from [RapidAPI JSearch](https://rapidap
 Create a file named `Jobapi_key.py` with:
 ```python
 rapidapi_key = "your_rapidapi_key_here"
+```
+
+## 📦 Installation
+
+```python
+git clone https://github.com/NeelmaniRam/JobSearch-App.git
+cd JobSearch-App
+pip install -r requirements.txt
+streamlit run app.py
+```
+
