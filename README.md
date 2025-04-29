@@ -6,12 +6,14 @@ Developed by **Neelmani** and **Saara**, this tool allows users to search for jo
 ---
 ## 🖼️ Screenshots 
 ![Screenshot 2025-04-29 at 9 50 23 PM](https://github.com/user-attachments/assets/b7e1041f-3804-4284-a564-ea8596621df4)
+
 Streamlit FrontEnd
 
 ![Screenshot 2025-04-29 at 9 51 12 PM](https://github.com/user-attachments/assets/0aec1750-e4af-444a-9d81-05b66af887ee)
-Results
 
+Realtime Results obtained
 
+---
 
 ## 📌 Features
 
