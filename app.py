@@ -17,7 +17,7 @@ st.sidebar.header("Search Parameters")
 
 # API key input (in sidebar)
 # api_key = st.sidebar.text_input("RapidAPI Key", value=rapidapi_key, type="password")
-api_key= rapidapi_key
+api_key = st.secrets["RAPIDAPI_KEY"]  
 # Search query
 query = st.sidebar.text_input("Job Title/Keywords", value="react developer")
 
