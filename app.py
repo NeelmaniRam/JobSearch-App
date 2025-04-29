@@ -2,7 +2,7 @@ import streamlit as st
 import http.client
 import json
 import urllib.parse
-from Jobapi_key import rapidapi_key  # Import the API key from a separate file
+# from Jobapi_key import rapidapi_key  # Import the API key from a separate file
 
 # Set page config
 st.set_page_config(page_title="Job Search App", layout="wide")
