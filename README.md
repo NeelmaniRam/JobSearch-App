@@ -1,5 +1,6 @@
 # 💼 Job Search App
 
+🚀 [Live App on Streamlit](https://jobsearch-neelmani-app.streamlit.app/)
 A Streamlit-based Job Search Application built using the **JSearch API** from RapidAPI.  
 Developed by **Neelmani** and **Saara**, this tool allows users to search for jobs across cities in India using rich filters such as location, job experience, remote-only roles, date posted, and more.
 
